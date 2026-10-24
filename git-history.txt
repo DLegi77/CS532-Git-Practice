@@ -1,0 +1,4 @@
+6dbdeda Add note about editing file directly on GitHub
+62d35b6 Update README with CS532 practice details
+5d79373 Add initial practice notes for CS532 Git assignment
+f58bed4 Initial commit
